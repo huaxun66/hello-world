@@ -77,3 +77,4 @@
 	
 	
 更多请参考：http://rogerdudler.github.io/git-guide/index.zh.html
+            http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
